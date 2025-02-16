@@ -1,0 +1,29 @@
+enable:
+  issues: false
+  prs: true
+
+labels:
+  'devops':
+    include:
+      - '\b🚚\b'
+  'docs':
+    include:
+      - '\b📝\b'
+  'feat':
+    include:
+      - '\b✨\b'
+  'refactor':
+    include:
+      - '\b🔨\b'
+  'setting':
+    include:
+      - '\b🔧\b'
+  'test':
+    include:
+      - '\b✅\b'
+  'bug':
+    include:
+      - '\b🐛\b'
+  'question':
+    include:
+      - '\b💡\b'
